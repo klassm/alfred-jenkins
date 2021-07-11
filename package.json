@@ -1,0 +1,26 @@
+{
+  "name": "alfred-jenkins",
+  "version": "1.4.2",
+  "description": "Alfred workflow for Jenkins.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=4"
+  },
+  "keywords": [
+    "alfred",
+    "workflow"
+  ],
+  "dependencies": {
+    "alfred-link": "^0.3.1",
+    "alfy": "^0.11.1",
+    "axios": "^0.21.1",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/lodash": "^4.14.171"
+  },
+  "alfy": {
+    "disableNotification": true
+  }
+}

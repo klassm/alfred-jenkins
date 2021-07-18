@@ -4,6 +4,8 @@
 <dict>
 	<key>bundleid</key>
 	<string>github.com/klassm/alfred-jenkins</string>
+	<key>category</key>
+	<string>Productivity</string>
 	<key>connections</key>
 	<dict>
 		<key>29C23EC0-1883-48BC-8CAA-C2AA26853429</key>
@@ -96,7 +98,7 @@
 				<key>scriptfile</key>
 				<string>index.js</string>
 				<key>subtext</key>
-				<string></string>
+				<string>Update available: 1.4.2 → 1.2.6. Run `npm install -g alfred-jenkins`</string>
 				<key>title</key>
 				<string>Jenkins</string>
 				<key>type</key>
@@ -142,7 +144,7 @@
 				<key>keyword</key>
 				<string>j-host</string>
 				<key>subtext</key>
-				<string>Use https://user:password@example.com for authentication.</string>
+				<string>Update available: 1.4.2 → 1.2.6. Run `npm install -g alfred-jenkins`</string>
 				<key>text</key>
 				<string>Jenkins host configuration</string>
 				<key>withspace</key>
